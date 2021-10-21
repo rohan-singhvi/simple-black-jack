@@ -1,0 +1,2 @@
+# simple-black-jack
+This is a simple implementation of black jack - for 1 player only (dealer and yourself), through the use of Python with 2 main libraries: Tkinter and random. This game uses simple logic to function, where it calculates the score of the hand and if you bust it automatically causes the dealer to win, and vice versa. Similarly, 21 is achieved by the player - obviously the dealer plays too, and then it determines who wins. Dealers cards are automatically all dealt all at once until either the dealer wins or the dealer busts.
